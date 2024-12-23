@@ -1,0 +1,14 @@
+C:\Users\yangz11\source\repos\MessageBoxWhile\bin\Debug\MessageBoxWhile.exe.config
+C:\Users\yangz11\source\repos\MessageBoxWhile\bin\Debug\MessageBoxWhile.exe
+C:\Users\yangz11\source\repos\MessageBoxWhile\bin\Debug\MessageBoxWhile.pdb
+C:\Users\yangz11\source\repos\MessageBoxWhile\obj\Debug\MessageBoxWhile.csprojAssemblyReference.cache
+C:\Users\yangz11\source\repos\MessageBoxWhile\obj\Debug\MessageBoxWhile.csproj.CoreCompileInputs.cache
+C:\Users\yangz11\source\repos\MessageBoxWhile\obj\Debug\MessageBoxWhile.exe
+C:\Users\yangz11\source\repos\MessageBoxWhile\obj\Debug\MessageBoxWhile.pdb
+C:\Users\yangz11\2021S\1175\lect6\datafile\MessageBoxWhile\bin\Debug\MessageBoxWhile.exe.config
+C:\Users\yangz11\2021S\1175\lect6\datafile\MessageBoxWhile\bin\Debug\MessageBoxWhile.exe
+C:\Users\yangz11\2021S\1175\lect6\datafile\MessageBoxWhile\bin\Debug\MessageBoxWhile.pdb
+C:\Users\yangz11\2021S\1175\lect6\datafile\MessageBoxWhile\obj\Debug\MessageBoxWhile.csprojAssemblyReference.cache
+C:\Users\yangz11\2021S\1175\lect6\datafile\MessageBoxWhile\obj\Debug\MessageBoxWhile.csproj.CoreCompileInputs.cache
+C:\Users\yangz11\2021S\1175\lect6\datafile\MessageBoxWhile\obj\Debug\MessageBoxWhile.exe
+C:\Users\yangz11\2021S\1175\lect6\datafile\MessageBoxWhile\obj\Debug\MessageBoxWhile.pdb

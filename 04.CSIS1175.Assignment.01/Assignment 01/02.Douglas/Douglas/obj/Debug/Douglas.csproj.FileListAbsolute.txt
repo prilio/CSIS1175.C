@@ -1,0 +1,8 @@
+D:\Programs\source\repos\Douglas\Douglas\bin\Debug\Douglas.exe.config
+D:\Programs\source\repos\Douglas\Douglas\bin\Debug\Douglas.exe
+D:\Programs\source\repos\Douglas\Douglas\bin\Debug\Douglas.pdb
+D:\Programs\source\repos\Douglas\Douglas\obj\Debug\Douglas.csproj.AssemblyReference.cache
+D:\Programs\source\repos\Douglas\Douglas\obj\Debug\Douglas.csproj.SuggestedBindingRedirects.cache
+D:\Programs\source\repos\Douglas\Douglas\obj\Debug\Douglas.csproj.CoreCompileInputs.cache
+D:\Programs\source\repos\Douglas\Douglas\obj\Debug\Douglas.exe
+D:\Programs\source\repos\Douglas\Douglas\obj\Debug\Douglas.pdb

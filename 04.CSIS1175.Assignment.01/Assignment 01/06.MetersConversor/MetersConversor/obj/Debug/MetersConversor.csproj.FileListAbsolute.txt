@@ -1,0 +1,8 @@
+D:\Programs\source\repos\MetersConversor\MetersConversor\bin\Debug\MetersConversor.exe.config
+D:\Programs\source\repos\MetersConversor\MetersConversor\bin\Debug\MetersConversor.exe
+D:\Programs\source\repos\MetersConversor\MetersConversor\bin\Debug\MetersConversor.pdb
+D:\Programs\source\repos\MetersConversor\MetersConversor\obj\Debug\MetersConversor.csproj.AssemblyReference.cache
+D:\Programs\source\repos\MetersConversor\MetersConversor\obj\Debug\MetersConversor.csproj.SuggestedBindingRedirects.cache
+D:\Programs\source\repos\MetersConversor\MetersConversor\obj\Debug\MetersConversor.csproj.CoreCompileInputs.cache
+D:\Programs\source\repos\MetersConversor\MetersConversor\obj\Debug\MetersConversor.exe
+D:\Programs\source\repos\MetersConversor\MetersConversor\obj\Debug\MetersConversor.pdb

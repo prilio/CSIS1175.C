@@ -1,0 +1,8 @@
+D:\Programs\source\repos\TimeConversor\TimeConversor\bin\Debug\TimeConversor.exe.config
+D:\Programs\source\repos\TimeConversor\TimeConversor\bin\Debug\TimeConversor.exe
+D:\Programs\source\repos\TimeConversor\TimeConversor\bin\Debug\TimeConversor.pdb
+D:\Programs\source\repos\TimeConversor\TimeConversor\obj\Debug\TimeConversor.csproj.AssemblyReference.cache
+D:\Programs\source\repos\TimeConversor\TimeConversor\obj\Debug\TimeConversor.csproj.SuggestedBindingRedirects.cache
+D:\Programs\source\repos\TimeConversor\TimeConversor\obj\Debug\TimeConversor.csproj.CoreCompileInputs.cache
+D:\Programs\source\repos\TimeConversor\TimeConversor\obj\Debug\TimeConversor.exe
+D:\Programs\source\repos\TimeConversor\TimeConversor\obj\Debug\TimeConversor.pdb

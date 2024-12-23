@@ -1,0 +1,16 @@
+C:\Users\300358805\source\repos\Priscila\Priscila\bin\Debug\Priscila.exe.config
+C:\Users\300358805\source\repos\Priscila\Priscila\bin\Debug\Priscila.exe
+C:\Users\300358805\source\repos\Priscila\Priscila\bin\Debug\Priscila.pdb
+C:\Users\300358805\source\repos\Priscila\Priscila\obj\Debug\Priscila.csproj.AssemblyReference.cache
+C:\Users\300358805\source\repos\Priscila\Priscila\obj\Debug\Priscila.csproj.SuggestedBindingRedirects.cache
+C:\Users\300358805\source\repos\Priscila\Priscila\obj\Debug\Priscila.csproj.CoreCompileInputs.cache
+C:\Users\300358805\source\repos\Priscila\Priscila\obj\Debug\Priscila.exe
+C:\Users\300358805\source\repos\Priscila\Priscila\obj\Debug\Priscila.pdb
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\0f6721556984481985256050792ee5b6_Priscila\Priscila\Priscila\obj\Debug\Priscila.csproj.AssemblyReference.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\0f6721556984481985256050792ee5b6_Priscila\Priscila\Priscila\obj\Debug\Priscila.csproj.SuggestedBindingRedirects.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\0f6721556984481985256050792ee5b6_Priscila\Priscila\Priscila\obj\Debug\Priscila.csproj.CoreCompileInputs.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\0f6721556984481985256050792ee5b6_Priscila\Priscila\Priscila\obj\Debug\Priscila.exe
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\0f6721556984481985256050792ee5b6_Priscila\Priscila\Priscila\obj\Debug\Priscila.pdb
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\0f6721556984481985256050792ee5b6_Priscila\Priscila\Priscila\bin\Debug\Priscila.exe.config
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\0f6721556984481985256050792ee5b6_Priscila\Priscila\Priscila\bin\Debug\Priscila.exe
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\0f6721556984481985256050792ee5b6_Priscila\Priscila\Priscila\bin\Debug\Priscila.pdb

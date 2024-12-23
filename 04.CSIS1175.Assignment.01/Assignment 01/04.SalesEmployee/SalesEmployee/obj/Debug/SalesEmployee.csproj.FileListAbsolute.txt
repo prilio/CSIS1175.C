@@ -1,0 +1,8 @@
+D:\Programs\source\repos\SalesEmployee\SalesEmployee\obj\Debug\SalesEmployee.csproj.AssemblyReference.cache
+D:\Programs\source\repos\SalesEmployee\SalesEmployee\obj\Debug\SalesEmployee.csproj.SuggestedBindingRedirects.cache
+D:\Programs\source\repos\SalesEmployee\SalesEmployee\obj\Debug\SalesEmployee.csproj.CoreCompileInputs.cache
+D:\Programs\source\repos\SalesEmployee\SalesEmployee\bin\Debug\SalesEmployee.exe.config
+D:\Programs\source\repos\SalesEmployee\SalesEmployee\bin\Debug\SalesEmployee.exe
+D:\Programs\source\repos\SalesEmployee\SalesEmployee\bin\Debug\SalesEmployee.pdb
+D:\Programs\source\repos\SalesEmployee\SalesEmployee\obj\Debug\SalesEmployee.exe
+D:\Programs\source\repos\SalesEmployee\SalesEmployee\obj\Debug\SalesEmployee.pdb

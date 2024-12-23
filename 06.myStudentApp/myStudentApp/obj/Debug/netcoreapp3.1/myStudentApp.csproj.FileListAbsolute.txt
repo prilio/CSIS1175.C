@@ -1,0 +1,27 @@
+C:\Users\yangz11\source\repos\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.exe
+C:\Users\yangz11\source\repos\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.deps.json
+C:\Users\yangz11\source\repos\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.runtimeconfig.json
+C:\Users\yangz11\source\repos\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.runtimeconfig.dev.json
+C:\Users\yangz11\source\repos\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.dll
+C:\Users\yangz11\source\repos\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.pdb
+C:\Users\yangz11\source\repos\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.csprojAssemblyReference.cache
+C:\Users\yangz11\source\repos\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\yangz11\source\repos\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.AssemblyInfoInputs.cache
+C:\Users\yangz11\source\repos\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.AssemblyInfo.cs
+C:\Users\yangz11\source\repos\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.dll
+C:\Users\yangz11\source\repos\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.pdb
+C:\Users\yangz11\source\repos\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.genruntimeconfig.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.exe
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.deps.json
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.runtimeconfig.json
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.runtimeconfig.dev.json
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.dll
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\bin\Debug\netcoreapp3.1\myStudentApp.pdb
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.csproj.AssemblyReference.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.AssemblyInfoInputs.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.AssemblyInfo.cs
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.csproj.CoreCompileInputs.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.dll
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.pdb
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\myStudentApp\myStudentApp\obj\Debug\netcoreapp3.1\myStudentApp.genruntimeconfig.cache

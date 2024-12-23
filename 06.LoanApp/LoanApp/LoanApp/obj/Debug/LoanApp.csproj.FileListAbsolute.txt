@@ -1,0 +1,39 @@
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\AuthorsFirst\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.csprojResolveAssemblyReference.cache
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\Users\bdoyle\Documents\CSharp_PublishingFiles\5thEdition\Authoring_5thEdition\RTP\Ch06\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.csprojResolveAssemblyReference.cache
+C:\Users\yangz11\2019_fall\1175\lect5\datafile\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\Users\yangz11\2019_fall\1175\lect5\datafile\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\Users\yangz11\2019_fall\1175\lect5\datafile\Ch06_Examples\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\Users\yangz11\2019_fall\1175\lect5\datafile\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.csprojAssemblyReference.cache
+C:\Users\yangz11\2019_fall\1175\lect5\datafile\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.CoreCompileInputs.cache
+C:\Users\yangz11\2019_fall\1175\lect5\datafile\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\Users\yangz11\2019_fall\1175\lect5\datafile\Ch06_Examples\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\LoanApp\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\LoanApp\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\LoanApp\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.AssemblyReference.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.SuggestedBindingRedirects.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.CoreCompileInputs.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.pdb

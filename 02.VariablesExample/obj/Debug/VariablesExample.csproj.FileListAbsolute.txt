@@ -1,0 +1,7 @@
+C:\Users\yangz11\2022S\1175\lect2\VariablesExample\bin\Debug\VariablesExample.exe.config
+C:\Users\yangz11\2022S\1175\lect2\VariablesExample\bin\Debug\VariablesExample.exe
+C:\Users\yangz11\2022S\1175\lect2\VariablesExample\bin\Debug\VariablesExample.pdb
+C:\Users\yangz11\2022S\1175\lect2\VariablesExample\obj\Debug\VariablesExample.csprojAssemblyReference.cache
+C:\Users\yangz11\2022S\1175\lect2\VariablesExample\obj\Debug\VariablesExample.csproj.CoreCompileInputs.cache
+C:\Users\yangz11\2022S\1175\lect2\VariablesExample\obj\Debug\VariablesExample.exe
+C:\Users\yangz11\2022S\1175\lect2\VariablesExample\obj\Debug\VariablesExample.pdb

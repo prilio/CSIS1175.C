@@ -1,0 +1,8 @@
+D:\Programs\source\repos\MilesConversor\MilesConversor\bin\Debug\MilesConversor.exe.config
+D:\Programs\source\repos\MilesConversor\MilesConversor\bin\Debug\MilesConversor.exe
+D:\Programs\source\repos\MilesConversor\MilesConversor\bin\Debug\MilesConversor.pdb
+D:\Programs\source\repos\MilesConversor\MilesConversor\obj\Debug\MilesConversor.csproj.AssemblyReference.cache
+D:\Programs\source\repos\MilesConversor\MilesConversor\obj\Debug\MilesConversor.csproj.SuggestedBindingRedirects.cache
+D:\Programs\source\repos\MilesConversor\MilesConversor\obj\Debug\MilesConversor.csproj.CoreCompileInputs.cache
+D:\Programs\source\repos\MilesConversor\MilesConversor\obj\Debug\MilesConversor.exe
+D:\Programs\source\repos\MilesConversor\MilesConversor\obj\Debug\MilesConversor.pdb

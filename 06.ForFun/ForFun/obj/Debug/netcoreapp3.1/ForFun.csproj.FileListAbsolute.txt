@@ -1,0 +1,27 @@
+C:\Users\yangz11\source\repos\ForFun\bin\Debug\netcoreapp3.1\ForFun.exe
+C:\Users\yangz11\source\repos\ForFun\bin\Debug\netcoreapp3.1\ForFun.deps.json
+C:\Users\yangz11\source\repos\ForFun\bin\Debug\netcoreapp3.1\ForFun.runtimeconfig.json
+C:\Users\yangz11\source\repos\ForFun\bin\Debug\netcoreapp3.1\ForFun.runtimeconfig.dev.json
+C:\Users\yangz11\source\repos\ForFun\bin\Debug\netcoreapp3.1\ForFun.dll
+C:\Users\yangz11\source\repos\ForFun\bin\Debug\netcoreapp3.1\ForFun.pdb
+C:\Users\yangz11\source\repos\ForFun\obj\Debug\netcoreapp3.1\ForFun.csproj.CoreCompileInputs.cache
+C:\Users\yangz11\source\repos\ForFun\obj\Debug\netcoreapp3.1\ForFun.AssemblyInfoInputs.cache
+C:\Users\yangz11\source\repos\ForFun\obj\Debug\netcoreapp3.1\ForFun.AssemblyInfo.cs
+C:\Users\yangz11\source\repos\ForFun\obj\Debug\netcoreapp3.1\ForFun.dll
+C:\Users\yangz11\source\repos\ForFun\obj\Debug\netcoreapp3.1\ForFun.pdb
+C:\Users\yangz11\source\repos\ForFun\obj\Debug\netcoreapp3.1\ForFun.genruntimeconfig.cache
+C:\Users\yangz11\source\repos\ForFun\obj\Debug\netcoreapp3.1\ForFun.csprojAssemblyReference.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\bin\Debug\netcoreapp3.1\ForFun.exe
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\bin\Debug\netcoreapp3.1\ForFun.deps.json
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\bin\Debug\netcoreapp3.1\ForFun.runtimeconfig.json
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\bin\Debug\netcoreapp3.1\ForFun.runtimeconfig.dev.json
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\bin\Debug\netcoreapp3.1\ForFun.dll
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\bin\Debug\netcoreapp3.1\ForFun.pdb
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\obj\Debug\netcoreapp3.1\ForFun.csproj.AssemblyReference.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\obj\Debug\netcoreapp3.1\ForFun.GeneratedMSBuildEditorConfig.editorconfig
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\obj\Debug\netcoreapp3.1\ForFun.AssemblyInfoInputs.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\obj\Debug\netcoreapp3.1\ForFun.AssemblyInfo.cs
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\obj\Debug\netcoreapp3.1\ForFun.csproj.CoreCompileInputs.cache
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\obj\Debug\netcoreapp3.1\ForFun.dll
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\obj\Debug\netcoreapp3.1\ForFun.pdb
+D:\Douglas College\Summer 2022\1175 - Introduction to Programming - 002\Week 06\ForFun\ForFun\obj\Debug\netcoreapp3.1\ForFun.genruntimeconfig.cache
