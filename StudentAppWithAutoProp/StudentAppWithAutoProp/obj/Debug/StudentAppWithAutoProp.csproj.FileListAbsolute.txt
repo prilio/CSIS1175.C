@@ -1,0 +1,24 @@
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.exe.config
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.AssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.exe.config
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.AssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.pdb
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Week 06\Lec6_11Oct_LabFiles\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.exe.config
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Week 06\Lec6_11Oct_LabFiles\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.exe
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Week 06\Lec6_11Oct_LabFiles\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.pdb
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Week 06\Lec6_11Oct_LabFiles\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.AssemblyReference.cache
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Week 06\Lec6_11Oct_LabFiles\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.SuggestedBindingRedirects.cache
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Week 06\Lec6_11Oct_LabFiles\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.CoreCompileInputs.cache
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Week 06\Lec6_11Oct_LabFiles\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.exe
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Week 06\Lec6_11Oct_LabFiles\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.pdb

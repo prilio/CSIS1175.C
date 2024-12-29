@@ -1,0 +1,8 @@
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Assignment 01\PriscilaC_Assign1\PriscilaC_Assign1\obj\Debug\PriscilaC_Assign1.csproj.AssemblyReference.cache
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Assignment 01\PriscilaC_Assign1\PriscilaC_Assign1\obj\Debug\PriscilaC_Assign1.csproj.SuggestedBindingRedirects.cache
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Assignment 01\PriscilaC_Assign1\PriscilaC_Assign1\obj\Debug\PriscilaC_Assign1.csproj.CoreCompileInputs.cache
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Assignment 01\PriscilaC_Assign1\PriscilaC_Assign1\bin\Debug\PriscilaC_Assign1.exe.config
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Assignment 01\PriscilaC_Assign1\PriscilaC_Assign1\bin\Debug\PriscilaC_Assign1.exe
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Assignment 01\PriscilaC_Assign1\PriscilaC_Assign1\bin\Debug\PriscilaC_Assign1.pdb
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Assignment 01\PriscilaC_Assign1\PriscilaC_Assign1\obj\Debug\PriscilaC_Assign1.exe
+D:\Douglas College\Fall 2002\1175 - Introduction to Programming - 001\Assignment 01\PriscilaC_Assign1\PriscilaC_Assign1\obj\Debug\PriscilaC_Assign1.pdb

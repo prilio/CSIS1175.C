@@ -1,0 +1,10 @@
+Read Names from file Names.csv
+Load into a list (and listbox with header)
+Use a label/textbox combo to get a name to be searched in the list. When the search button is clicked, display a pop-up message that says whether or not the name to be searched is present in the list - you can assume any format for displaying first and last name in listbox.
+
+Additional Practice with windows forms and class: Define a Class with class name UserDetails that has two string properties one each for first and last names. 
+
+Maintain a list of UserDetails in your windows form field to read all the users from input file, Load all User's last name into the listbox (along with a header line). When a particular user's last name is selected, the corresponding first name is displayed in a separate label that shows selected user's first name.
+
+Additional problem solving practice: The names are in the order firstname lastname. Sort the names by last name and write to an output file
+

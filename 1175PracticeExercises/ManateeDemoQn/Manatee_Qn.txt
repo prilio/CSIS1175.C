@@ -1,0 +1,8 @@
+Manatee App: 
+• Take a look at the data file to understand the nature of the data
+• The Manatee class contains Location (string), 4 sighting dates (string[] with four elements), 4 sighting counts (int[] of four elements), computed properties for MinSightingCount (int), MaxSightingCount (int), AvgSightingCount (double). Create constructors to set all the relevant values to be read from the input file, and parse needed numerical inputs. Also, create a ToString() method to display in the listbox or in the output file as needed.
+• Create a windows form with label + textbox for each of these fields, and a listbox to hold all items (plus header).
+• Create buttons for: Read From File, Updating selected item, Write To File (along with min, max and avg counts computed properties)
+• Finally, add a button to compute the GradeAvergage of all sighting counts across all locations, which is basically an average of all the average counts
+• Both input and output files can be in the default folder location
+

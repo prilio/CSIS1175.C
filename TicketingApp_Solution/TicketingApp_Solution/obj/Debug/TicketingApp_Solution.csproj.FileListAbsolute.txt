@@ -1,0 +1,16 @@
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Other\TicketingApp_Solution\TicketingApp_Solution\bin\Debug\TicketingApp_Solution.exe.config
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Other\TicketingApp_Solution\TicketingApp_Solution\bin\Debug\TicketingApp_Solution.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Other\TicketingApp_Solution\TicketingApp_Solution\bin\Debug\TicketingApp_Solution.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Other\TicketingApp_Solution\TicketingApp_Solution\obj\Debug\TicketingApp_Solution.csproj.AssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Other\TicketingApp_Solution\TicketingApp_Solution\obj\Debug\TicketingApp_Solution.csproj.SuggestedBindingRedirects.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Other\TicketingApp_Solution\TicketingApp_Solution\obj\Debug\TicketingApp_Solution.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Other\TicketingApp_Solution\TicketingApp_Solution\obj\Debug\TicketingApp_Solution.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Other\TicketingApp_Solution\TicketingApp_Solution\obj\Debug\TicketingApp_Solution.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec9\Lec9_6Nov_LabFiles\TicketingApp_Solution\TicketingApp_Solution\bin\Debug\TicketingApp_Solution.exe.config
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec9\Lec9_6Nov_LabFiles\TicketingApp_Solution\TicketingApp_Solution\bin\Debug\TicketingApp_Solution.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec9\Lec9_6Nov_LabFiles\TicketingApp_Solution\TicketingApp_Solution\bin\Debug\TicketingApp_Solution.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec9\Lec9_6Nov_LabFiles\TicketingApp_Solution\TicketingApp_Solution\obj\Debug\TicketingApp_Solution.csproj.AssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec9\Lec9_6Nov_LabFiles\TicketingApp_Solution\TicketingApp_Solution\obj\Debug\TicketingApp_Solution.csproj.SuggestedBindingRedirects.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec9\Lec9_6Nov_LabFiles\TicketingApp_Solution\TicketingApp_Solution\obj\Debug\TicketingApp_Solution.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec9\Lec9_6Nov_LabFiles\TicketingApp_Solution\TicketingApp_Solution\obj\Debug\TicketingApp_Solution.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec9\Lec9_6Nov_LabFiles\TicketingApp_Solution\TicketingApp_Solution\obj\Debug\TicketingApp_Solution.pdb

@@ -1,0 +1,3 @@
+UserId	UserName	UserAge
+101	Adam	78
+201	Will	67

@@ -1,0 +1,16 @@
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\CarpetCalculatorMethods\CarpetCalculatorMethods\obj\Debug\CarpetCalculatorMethods.csproj.AssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\CarpetCalculatorMethods\CarpetCalculatorMethods\obj\Debug\CarpetCalculatorMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\CarpetCalculatorMethods\CarpetCalculatorMethods\obj\Debug\CarpetCalculatorMethods.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\CarpetCalculatorMethods\CarpetCalculatorMethods\bin\Debug\CarpetCalculatorMethods.exe.config
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\CarpetCalculatorMethods\CarpetCalculatorMethods\bin\Debug\CarpetCalculatorMethods.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\CarpetCalculatorMethods\CarpetCalculatorMethods\bin\Debug\CarpetCalculatorMethods.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\CarpetCalculatorMethods\CarpetCalculatorMethods\obj\Debug\CarpetCalculatorMethods.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\CarpetCalculatorMethods\CarpetCalculatorMethods\obj\Debug\CarpetCalculatorMethods.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\Lec5_4Oct_LabFiles\CarpetCalculatorMethods\CarpetCalculatorMethods\bin\Debug\CarpetCalculatorMethods.exe.config
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\Lec5_4Oct_LabFiles\CarpetCalculatorMethods\CarpetCalculatorMethods\bin\Debug\CarpetCalculatorMethods.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\Lec5_4Oct_LabFiles\CarpetCalculatorMethods\CarpetCalculatorMethods\bin\Debug\CarpetCalculatorMethods.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\Lec5_4Oct_LabFiles\CarpetCalculatorMethods\CarpetCalculatorMethods\obj\Debug\CarpetCalculatorMethods.csproj.AssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\Lec5_4Oct_LabFiles\CarpetCalculatorMethods\CarpetCalculatorMethods\obj\Debug\CarpetCalculatorMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\Lec5_4Oct_LabFiles\CarpetCalculatorMethods\CarpetCalculatorMethods\obj\Debug\CarpetCalculatorMethods.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\Lec5_4Oct_LabFiles\CarpetCalculatorMethods\CarpetCalculatorMethods\obj\Debug\CarpetCalculatorMethods.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\Lec5_4Oct_LabFiles\CarpetCalculatorMethods\CarpetCalculatorMethods\obj\Debug\CarpetCalculatorMethods.pdb

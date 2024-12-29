@@ -1,0 +1,4 @@
+Read Test Scores from text file (TestScores.txt), and load into a list of double values. 
+Compute minimum, maximum and average. 
+
+You may use listbox, buttons and labels to create this application using windows forms. The form may contain a listbox to load the scores, and have labels for minimum, maximum and average. When a "Perform Computations" button is clicked, the minimum, maximum, and average is computed and displayed in the corresponding labels.

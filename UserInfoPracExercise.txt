@@ -1,0 +1,18 @@
+//Practice Exercise: Add Grade1, Grade2, Grade3 in the class
+        //Add textboxes and labels for the three grades to get user info
+        //for the grades
+        // And maintain a computed property AvgGrade in the class
+        // Use the userinfowithgrades.csv file to read user and three grades
+        //info,
+        //Listbox should show: user id, user name, user age, grade1, grade2, grade3, avg grade
+        //Similarly, output file should also have all these details
+        //Also, you can write a separate output file for
+        //students who got avg grade > 90, avg grade > 80, avg grade > 70, avg grade > 60
+        //in four separate output files using if inside the while loop of file writes.
+
+        //Also: Please review the Shoal Water Depth Application.
+        //Please review the problem given in textbook in page 888 Chapter 13
+        //Shoal Water Depth Application - we will discuss this and linq queries next class
+
+
+co-op@douglascollege.ca
